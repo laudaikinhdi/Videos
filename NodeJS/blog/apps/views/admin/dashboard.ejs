@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <%- include layout/head %>
+</head>
+<body>
+    <%- include layout/menu %>
+    <div class="container">
+        <div class="row">
+            <a href="/admin/post/add" class="btn btn-success">Create posts</a>
+            <table class="table">
+                <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Title</th>
+                    <th>Content</th>
+                    <th>User</th>
+                    <th>Created</th>
+                    <th>Updated</th>
+                    <th>Actions</th>
+                </tr>
+                </thead>
+                <tbody>
+                    <% if( data && data.posts){%>
+                        <% for(var i = 0; i < data.posts.length; i++) {%>
+                            <tr>
+                                <td>
+                                    <%= data.posts[i].id %>
+                                </td>
+                                <td>
+                                    <%= data.posts[i].title %>
+                                </td>
+                                <td>
+                                    <%= data.posts[i].content %>
+                                </td>
+                                <td>
+                                    <%= data.posts[i].author %>
+                                </td>
+                                <td>
+                                    <%= data.posts[i].created_at %>
+                                </td>
+                                <td>
+                                    <%= data.posts[i].updated_at %>
+                                </td>
+                                <td>
+                                    <a href="/admin/post/edit/<%= data.posts[i].id %>" class="btn btn-primary">Edit</a>
+                                    <button class="btn btn-danger post_delete" data-id="<%= data.posts[i].id %>">Delete</button>
+                                </td>
+                            </tr>
+                        <%}%>    
+                    <%}%>    
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="/static/js/post.js"></script>
+</body>
+</html>

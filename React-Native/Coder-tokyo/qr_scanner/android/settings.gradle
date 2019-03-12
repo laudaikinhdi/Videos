@@ -1,0 +1,3 @@
+rootProject.name = 'qr_scanner'
+
+include ':app'

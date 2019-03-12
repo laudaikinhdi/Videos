@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <%- include ../layout/head %>
+    <script src="https://cloud.tinymce.com/stable/tinymce.min.js"></script>
+    <script>tinymce.init({ selector:'textarea' });</script>
+    <script src="/static/js/post.js"></script>
+</head>
+<body>
+    <%- include ../layout/menu %>
+    <div class="container">
+        <div class="row">
+            <form action="" method="">
+                <div class="col-sm-6 ">
+                    <input type="hidden" id="idPost" value="<% if(data && data.post) {%><%= data.post.id %><%}%>">
+                    <div class="form-group">
+                        <label>Title</label>
+                        <input type="text" class="form-control title" value="<% if(data && data.post) {%><%= data.post.title %><%}%>" name="title">
+                    </div>
+                    <div class="form-group">
+                        <label>Content</label>
+                        <textarea name="content"><% if(data && data.post) {%><%= data.post.content %><%}%></textarea>
+                    </div>
+                    <div class="form-group">
+                        <label>Author</label>
+                        <input type="text" class="form-control author" value="<% if(data && data.post) {%><%= data.post.author %><%}%>" name="author">
+                    </div>
+                    <div class="form-group">
+                        <button class="btn btn-success" id="post_edit">Update</button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

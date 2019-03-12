@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/onetech/.android/build-cache/f0eb0bc29d7b1522d886d5d502f6ef63418d12af/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/onetech/.android/build-cache/f0eb0bc29d7b1522d886d5d502f6ef63418d12af/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/onetech/.android/build-cache/f0eb0bc29d7b1522d886d5d502f6ef63418d12af/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/onetech/.android/build-cache/f0eb0bc29d7b1522d886d5d502f6ef63418d12af/output/res/layout-v21/notification_action.xml"
+    }
+]

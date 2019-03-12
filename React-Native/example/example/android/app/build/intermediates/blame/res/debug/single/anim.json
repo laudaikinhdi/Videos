@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/anim/abc_fade_in.xml"
+    }
+]

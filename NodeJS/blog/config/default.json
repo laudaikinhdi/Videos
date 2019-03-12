@@ -1,0 +1,15 @@
+{
+    "server":{
+        "host": "0.0.0.0",
+        "port": 3000
+    },
+    "mysql":{
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "blog_nodejs",
+        "port": 3306
+    },
+    "saltRounds": 10,
+    "secert_key": "secertKey"
+}

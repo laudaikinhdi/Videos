@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/57dd13216b27c263b48c4f71e242893f51d17410/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ced2c9cad18369f076d58319666767cfc6e378e4">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_1a954e15400cfb2f09b30361d6b2828e8d63bcd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_43e6947f9ede3c450f2c8980b1770ca33876af30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_6b5bcbf1dbf9d976d2fbc941f19e37bccea3d5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_accb199ff728371493e33fc94ff09028d1f492d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_739cb3c143012521cf8214ca4fde523f5b463dac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/f1acd95697e69e2a638452ca64d5c3fde6a1bde5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_633cbf319e67158cb386e86e3ebcbb708b3004cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/77f8cc560a20eca19b6ea6f0e998fa528a0c9e65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_408a69f20277a51ce7f09cb6dc61054ca2c8c561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/e4b90963824ca6a3d51a06c66d85a339a6d70730/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_47fe72132118b27ea744c1505c86a7a951ed1d5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/55a312adf24dbb5372a2491e11f2f9781454b68b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_19a2ea90dee2a3c6eca41282678c9fca7c6f24db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/757cebb98f66e82a863bcec8658243b0242e2938/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_4cdf30e813cb4f4630d09ef8f2231d4c61c3e832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/ffd5623b7fa6117342541dcc84f42e1806e24b1d/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_25483a2cfe9f4bb87291c6727f7f98a3c9b0a213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_8a8a0afa6cd43b8a2f636ba3b80b785df62b9d04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/d1e8b0750aa399c9594b30ded44d03482e31ca9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_b711832376e598a28b9409d53580ae81d731e08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_e423c59ea70c69bc7874264941c8dce93c86a84f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/f0eb0bc29d7b1522d886d5d502f6ef63418d12af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_cbb8366489863bd5c1e05a74d1a0ca95325a70f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/6796b83e03c283b1f854eae60a189612ee0f3430/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_9dc0b54ba8b5124f1e5b0764a7109d9d501f797c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_dbe4b7bcbede5c5f1ffdae017ff57826f77e891e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/b26a4788667aa4719836f60214f26dc5bea958fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_8da1553b29eaf50d4b88a41a38cb7b9356d8f963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/925b0e98b3cd941a4304fdc8c9dd5103ef7bcc10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_a855e2a24b40ec81b20a321582af6abf6ebd5eea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/20e36ab6f67e326bab40f2ff96abd5c63c6ac736/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_b10d579abda32d0f7a8482478f193ef657557aae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/1ab45ea2db996b6c6daa7eba5af19c99d0b33414/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_206f28d438d3839c376ea346c094dd58539172a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/Desktop/Project/react-native/example/v56/example/node_modules/react-native-view-pdf/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ccaf4416a1bf349cd598e2430bdf6582a84759ee">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_edff12e501b848fcdb8809630557951404f93db8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/bbb1721bbd6cc3cbcd0ce787fb6548f3b69df87f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_24536ca2863d30169a1ea03404be85fceb52826e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_feb837774e19d5ac5329140e590ab59b246b3c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_ebdfb5b704f5ade0039707447f6377bbf19d666b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/6501b5671d46e783c9bf11acdfcf0f4717ba6c8e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_18e7a779105c0019aa2341c8ed79842d48647e9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_133d5a4e3b3cbaf7b2ccba7a97b04f7e5d7b60f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/5e607cb21d882e0d901865d629178507525cb382/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69222656aff9fc06ba45b16a6cf65684ce39e121">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_234758c66d53b0cbaef2584e755db39486682896.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_0abb198c463d0d753ec2c36e9474e159887d551c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_936b4bed4a4bff9ad2562648af13db6ffe579160.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/99f58fff046cf34865004b557c7f508edf2c9984/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_70b350f88c1becf8e22caa8f9aa6e682e9cc1075.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/115cb51481a16d605ced9ea9d409c930b8772707/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_7ed8fe81b3f0e1f448d2765ca44ca9480be64e3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/onetech/.android/build-cache/24fa9fb31d7e7f3511713a6f43ccbc13350d2c5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/pre-dexed/debug/classes_933cba3522472c98ee2f39f1360f18948f9b5df1.jar" />
+    </item>
+
+</items>

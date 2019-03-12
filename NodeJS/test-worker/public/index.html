@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <script>
+            var workder;
+            if(window.Worker){
+                console.log('worker run');
+                worker = new Worker('worker.js');
+                
+                worker.postMessage('do some work');
+
+                worker.addEventListener('message', function(e){
+                    console.log(e);
+                    document.body.innerHTML = e.data.message;
+                    worker.terminate();
+                    worker.postMessage('do some more work');
+                });
+            }
+        
+        </script>
+        <h1>Worker thread(load data.....)</h1>
+    </body>
+</html>

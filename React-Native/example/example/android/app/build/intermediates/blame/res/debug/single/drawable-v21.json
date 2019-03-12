@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/onetech/.android/build-cache/f0eb0bc29d7b1522d886d5d502f6ef63418d12af/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/onetech/Desktop/Project/react-native/example/v56/example/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/onetech/.android/build-cache/d13be0d9ad1eb98a92d41dc9748ef4a7b03f2e01/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
