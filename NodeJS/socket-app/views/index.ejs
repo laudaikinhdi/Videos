@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+
+    <div id="app">
+        <ul style="list-style: none">
+          <li v-for="(message,index) in messages">
+            {{index}}. {{message}}
+          </li>
+        </ul>
+    </div>
+  </body>
+</html>
+
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js"></script>
+<script>
+  var socket = io.connect("localhost:3000");
+  var app = new Vue({
+    el: "#app",
+    data: function() {
+      return {
+        messages: ["tan", "dinh"]
+      }
+    },
+    created: function() {
+      console.log(this.messages);
+    },
+  })
+</script>
