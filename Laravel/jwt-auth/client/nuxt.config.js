@@ -79,6 +79,11 @@ export default {
     '@nuxtjs/auth',
   ],
 
+  bootstrapVue: {
+    bootstrapCSS: true, // Or `css: false`
+    bootstrapVueCSS: true // Or `bvCSS: false`
+  },
+
   axios: {
     // proxy: true, // Can be also an object with default options
     baseURL: 'http://localhost:8000/api'
