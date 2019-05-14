@@ -30,7 +30,7 @@ class SocialLoginController extends Controller
 			$serviceUser = Socialite::driver($service)->stateless()->user();
 
 		} catch (\Exception $e) {
-			return redirect(env('CLIENT_BASE_URL') . '?error=Unable to login using ' . $service . '. Please try again');
+			return redirect(env('CLIENT_BASE_URL') . '/auth/social-callback?error=Unable to login using ' . $service . '. Please try again' . '&origin=login');
 		}
 		$email = $serviceUser->getEmail();
 
@@ -40,9 +40,10 @@ class SocialLoginController extends Controller
 		}
 
 		$user = $this->getExistingUser($serviceUser, $email, $service);
-
+		$newUser = false;
 		if(!$user)
 		{
+			$newUser = true;
 			$user = User::create([
 				'name' => $serviceUser->getName() ? $serviceUser->getName() : '',
 				'email' => $email,
@@ -59,7 +60,7 @@ class SocialLoginController extends Controller
 			]);
 		}
 
-		return redirect(env('CLIENT_BASE_URL') . '/auth/social-callback?token=' . $this->auth->fromUser($user));
+		return redirect(env('CLIENT_BASE_URL') . '/auth/social-callback?token=' . $this->auth->fromUser($user) . '&origin=' . ($newUser ? 'register' : 'login'));
 	}
 
 	public function needsToCreateSocial(User $user, $service)

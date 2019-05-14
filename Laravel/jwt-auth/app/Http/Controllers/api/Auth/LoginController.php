@@ -8,7 +8,7 @@ use Tymon\JWTAuth\Exceptions\JWTException;
 use Tymon\JWTAuth\JWTAuth;
 use Illuminate\Http\Request;
 
-class LoginController extends Controller
+class 	LoginController extends Controller
 {
     /*
     |--------------------------------------------------------------------------
@@ -69,6 +69,20 @@ class LoginController extends Controller
         // to login and redirect the user back to the login form. Of course, when this
         // user surpasses their maximum number of attempts they will get locked out.
         $this->incrementLoginAttempts($request);
+
+        //attempt login with token
+
+		if($request->input('token')) {
+			$this->auth->setToken($request->input('token'));
+			$user = $this->auth->authenticate();
+			if($user) {
+				return response()->json([
+					'success' => true,
+					'data' => $request->user(),
+					'token' => $request->input('token')
+				],200);
+			}
+		}
 
         try {
             if (!$token = $this->auth->attempt($request->only('email', 'password'))) {

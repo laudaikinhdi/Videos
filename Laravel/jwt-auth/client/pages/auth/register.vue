@@ -1,6 +1,10 @@
 <template>
   <div class="">
-    <div class="col-md-6 offset-md-3">
+    <div class="col-md-6 offset-md-3 mr-4">
+      <div class="alert alert-danger mb-2" role="alert" v-if="error">
+        Your token appeared to be invalid, please try again.
+      </div>
+      <social-login/>
       <div class="card mt-4">
         <div class="card-header">
           <p class="mb-0">Register</p>
@@ -39,15 +43,20 @@
 </template>
 
 <script>
+import SocialLogin from '@/components/SocialLogin';
 export default {
   middleware: 'guest',
+  components: {
+    SocialLogin
+  },
   data() {
     return {
       form: {
         name: '',
         email: '',
         password: ''
-      }
+      },
+      error: this.$route.query.error
     }
   },
   methods: {
